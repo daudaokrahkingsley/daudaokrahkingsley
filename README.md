@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Science && Machine Learning**
 
-- 🌱 I’m currently learning **Data Science, Machine Learning**
+- 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning and Generative Ai**
 
 - 💬 Ask me about **Machine Learning**
 
